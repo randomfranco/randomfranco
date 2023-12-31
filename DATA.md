@@ -9,6 +9,11 @@
 | 150 | 98  | 185 | 433   | kgs  |
 | 330 | 216 | 407 | 1003  | lbs  |
 
+| Pull Up | Dips | unit |
+|---------|------|------|
+| ND      | ND   | kgs  |
+| ND      | ND   | lbs  |
+
 | Biceps Curl Z | Military Press | unit |
 |---------------|----------------|------|
 | 54            | 58             | kgs  |
